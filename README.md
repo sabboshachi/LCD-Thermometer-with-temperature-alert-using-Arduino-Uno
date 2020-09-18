@@ -13,4 +13,4 @@
 ## Software:
   1. Arduino IDE
 ## Circuit Diagram:
-[![Circuit Diagram](Project.png)](https://github.com/sabboshachi/LCD-Thermometer-with-temperature-alert-using-Arduino-Uno/blob/master/circuit.png)
+[![Circuit Diagram](circuit.png)](https://github.com/sabboshachi/LCD-Thermometer-with-temperature-alert-using-Arduino-Uno/blob/master/circuit.png)
